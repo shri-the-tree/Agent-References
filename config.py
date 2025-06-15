@@ -1,7 +1,7 @@
 # config.py
 
-GROQ_API_KEY = "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"
-SERPAPI_KEY = "8585258d1a1c2a76ef264754d2638e86eb4d0705cf80de79923b792789bdc921"
+GROQ_API_KEY = ""
+SERPAPI_KEY = ""
 
 
 # Mapping each agent to a Groq-hosted model
