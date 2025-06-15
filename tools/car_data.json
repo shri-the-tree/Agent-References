@@ -1,0 +1,38 @@
+[
+  {
+    "brand": "Skoda",
+    "model": "Slavia Ambition 1.0L",
+    "price_inr": 1400000,
+    "fuel": "Petrol",
+    "type": "Sedan",
+    "mileage_kmpl": 18,
+    "image_url": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/114307/slavia-exterior-right-front-three-quarter-2.jpeg"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Kushaq Style 1.5L",
+    "price_inr": 1700000,
+    "fuel": "Petrol",
+    "type": "SUV",
+    "mileage_kmpl": 17,
+    "image_url": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/44719/kushaq-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "brand": "Tata",
+    "model": "Nexon EV Fearless",
+    "price_inr": 1500000,
+    "fuel": "Electric",
+    "type": "SUV",
+    "mileage_kmpl": 0,
+    "image_url": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41129/nexon-ev-right-front-three-quarter0.jpeg"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Creta SX 1.5L",
+    "price_inr": 1490000,
+    "fuel": "Petrol",
+    "type": "SUV",
+    "mileage_kmpl": 17,
+    "image_url": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/140539/creta-exterior-right-front-three-quarter-3.jpeg"
+  }
+]
